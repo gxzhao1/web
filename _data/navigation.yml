@@ -2,8 +2,8 @@
 main:
   # - title: "Home"
     #url: https://gillianzhaoxz.github.io/web/
-  - title: "About"
-    url: /about-gillian/
+  - title: "Blog"
+    url: /blog-by-categories/
   - title: "Portfolio"
     url: /my-portfolio/
   # - title: "Sample Collections"
