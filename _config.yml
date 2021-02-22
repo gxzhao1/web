@@ -117,8 +117,7 @@ author:
       url: "https://github.com/gillianzhaoxz"
     - label: "About Me"
       icon: "fab fa-fw fa-link"
-      url: /about-gillian/
-
+      url: "https://gillianzhaoxz.github.io/web/about-gillian/"
 # Site Footer
 footer:
   links:
