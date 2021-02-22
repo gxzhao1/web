@@ -104,7 +104,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:gillianzhaoxz@163.com"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-instagram"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -115,9 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gillianzhaoxz"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "About Me"
+      icon: "fab fa-fw fa-link"
+      url: /about-gillian/
 
 # Site Footer
 footer:
