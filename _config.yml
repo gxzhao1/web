@@ -284,7 +284,7 @@ defaults:
 theme: jekyll-theme-minimal
 
 # Collections
-#collections:
+collections:
 #  recipes:
 #    output: true
 #    permalink: /:collection/:path/
