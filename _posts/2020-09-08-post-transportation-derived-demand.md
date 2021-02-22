@@ -2,12 +2,11 @@
 title: "Post: Transportation, is it a derived demand?"
 categories:
   - Personal Experience
-  - Planning
+  - Urban Planning
 tags:
   - Transportation
   - English
 ---
-
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/post-transportation-derived-demand.jpg" | relative_url }})
 {% endcapture %}
