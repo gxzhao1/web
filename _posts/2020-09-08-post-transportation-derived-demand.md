@@ -8,6 +8,15 @@ tags:
   - English
 ---
 
+{% capture fig_img %}
+![Foo]({{ "/assets/images/post-transportation-derived-demand.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>People wearing mask walking on street</figcaption>
+</figure>
+
 Growing up in Beijing, I spent a lot of time on the road. 
 
 As soon as I had my parents’ permission when I was in elementary school, I would walk or take a bus to school and home, which was about 20 minutes every time. In middle school, I would take the subway and then bus and then walk back home, which took about 50 minutes in total every day. On the road, I spent the time reflecting about myself, looking at the surrounding people, and observing the passing-by environment.
