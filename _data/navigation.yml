@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about-gillian/
   - title: "Portfolio"
-    url: /gillian_portfolio/
+    url: /my-portfolio/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -19,6 +19,6 @@ main:
 #  pets:
 #    output: true
 #    permalink: /:collection/:path/
-  portfolio:
+  gportfolio:
     output: true
     permalink: /:collection/:path/
