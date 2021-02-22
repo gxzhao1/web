@@ -2,7 +2,7 @@
 title: "About Page"
 permalink: /about-gillian/
 date: 2016-02-24T03:02:20+00:00
-layout: posts
+author_profile: true
 ---
 
 Hi! 
