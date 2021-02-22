@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# Collections
+#collections:
+#  recipes:
+#    output: true
+#    permalink: /:collection/:path/
+#  pets:
+#    output: true
+#    permalink: /:collection/:path/
+  g_portfolio:
+    output: true
+    permalink: /:collection/:path/
