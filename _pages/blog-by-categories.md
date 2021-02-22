@@ -5,4 +5,4 @@ permalink: /blog-by-categories/
 author_profile: true
 ---
 
-`posts`
+`myposts`
