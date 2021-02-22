@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://gillianzhaoxz.github.io/web/
   - title: "About"
-    url: https://gillianzhaoxz.github.io/web/about-gillian
+    url: /about-gillian/
   - title: "Portfolio"
-    url: https://gillianzhaoxz.github.io/web/portfolio-main
+    url: /portfolio-main/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
