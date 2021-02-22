@@ -2,11 +2,19 @@
 title: "Post: COVID19 and Theories of Information Diffusion"
 categories:
   - Personal Experience
-  - Planning
+  - Urban Planning
 tags:
   - Informatics
   - English
 ---
+{% capture fig_img %}
+![Foo]({{ "/assets/images/post-why-study-urban-planning.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photographer traveler in the city with camera</figcaption>
+</figure>
 
 I learned this story in one of my Informatics class: A 2-year "water boiling" campaign was conducted in Peru in order to improve local residents' health. A public health worker gave talks to housewives, telling them how boiling water could kill germs, but largely failed to persuade them to drink boiling water. Can you think of why that is?
 

@@ -2,11 +2,19 @@
 title: "Post: Why study Urban Planning?"
 categories:
   - Personal Experience
-  - Planning
+  - Urban Planning
 tags:
   - Why
   - English
 ---
+{% capture fig_img %}
+![Foo]({{ "/assets/images/post-why-study-urban-planning.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photographer traveler in the city with camera</figcaption>
+</figure>
 
 Of course, I have put together application essays, using them to sell myself to the schools. There are details in my life which led me to my route that I am on today, but I rarely included them in those formal essays, or tell them in interviews, because they don’t show my highest achievement and my fullest ability. Nonetheless, those details are super important.
 
