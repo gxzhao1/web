@@ -1,8 +1,10 @@
 ---
 title: Portfolio
 layout: collection
-permalink: /portfolio-main/
-collection: g_portfolio
+permalink: /my-portfolio/
+collection: portfolio
 entries_layout: grid
 classes: wide
 ---
+
+hi
