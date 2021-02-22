@@ -1,14 +1,7 @@
 ---
 layout: home
 author_profile: true
+tagline: "Welcome to Gillian's personal website"
+header:
+  overlay_image: /assets/images/graphics-city-park.jpg
 ---
-
-Welcome to Gillian's personal website.
-
-{% capture fig_img %}
-![Foo]({{ "/assets/images/graphics-city-park.jpg" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>

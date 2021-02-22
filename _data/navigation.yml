@@ -2,9 +2,9 @@
 main:
   # - title: "Home"
     #url: https://gillianzhaoxz.github.io/web/
-  - title: "Blog"
+  - title: "Blog/博客"
     url: /blog-by-categories/
-  - title: "Portfolio"
+  - title: "Portfolio/作品集"
     url: /my-portfolio/
   # - title: "Sample Collections"
   #   url: /collection-archive/
