@@ -2,8 +2,8 @@
 title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
 excerpt: 
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/portfolio-pred-hero-presentation.jpg
+  teaser: /assets/images/portfolio-pred-hero-presentation.jpg
 layout: single
 ---
 
