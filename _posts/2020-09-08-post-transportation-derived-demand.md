@@ -6,6 +6,9 @@ categories:
 tags:
   - Transportation
   - English
+header: 
+  image: assets/images/post-transportation-derived-demand.jpg
+  teaser: assets/images/post-transportation-derived-demand.jpg
 ---
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/post-transportation-derived-demand.jpg" | relative_url }})
