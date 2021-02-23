@@ -6,6 +6,8 @@ categories:
 tags:
   - Why
   - English
+header:
+  teaser: /assets/images/post-why-study-urban-planning.jpg
 ---
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/post-why-study-urban-planning.jpg" | relative_url }})

@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About Me 关于我"
 permalink: /about-gillian/
 layout: posts
 author_profile: true
@@ -12,3 +12,5 @@ My name is Xuezhu but I go by Gillian too. The meaning of my Chinese name is 'sn
 I spent 18 years of my life in Beijing, China before I came to the U.S. to study Urban Planning. Currently I am a graduate student at University of Pennsylvania. I enjoy studying Urban Planning very much and I am dedicated to promoting vibrant and sustainable communities with Smart Cities initiatives.
 
 Besides Urban Planning, I am also interested in Informatics, Real Estate and Psychology. In my free time, I enjoy good food, music, and arts. I have played the piano for years and joined a school choir in the past.
+
+中文版本敬请期待

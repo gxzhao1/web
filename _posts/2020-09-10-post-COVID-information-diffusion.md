@@ -6,6 +6,8 @@ categories:
 tags:
   - Informatics
   - English
+header:
+  teaser: /assets/images/post-covid-information-diffusion.jpg
 ---
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/post-covid-information-diffusion.jpg" | relative_url }})
