@@ -1,6 +1,6 @@
 ---
 title: Portfolio/作品集
-layout: collection
+layout: single
 permalink: /my-portfolio/
 collection: portfolio
 entries_layout: grid
