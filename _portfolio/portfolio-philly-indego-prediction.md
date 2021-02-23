@@ -22,4 +22,4 @@ The key to re-balancing is predicting the bike share demand for all stations at 
 
 [Code](https://gillianzhaoxz.github.io/508_html/MUSA508_HW5_Bikeshare_Zhao.html){: .btn .btn--info}
 
-_disclamer: this is a project for a graduate course_
+_disclamer: this project is a part of a graduate course_

@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/sim-city-smart-city.jpg
 ---
 {% capture fig_img %}
-![Foo]({{ "/assets/images/sim-city-smart-city.jpg" | relative_url }})
+![Foo]({{ "/assets/images/post-sim-city-smart-city.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
