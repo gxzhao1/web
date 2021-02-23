@@ -19,3 +19,5 @@ Our team built a geospatial risk model of heroin overdose events for the City of
 [Video Presentation](https://www.youtube.com/watch?v=rCxU5raI2Ws&feature=youtu.be){: .btn .btn--info}
 
 [Code](https://gillianzhaoxz.github.io/508_html/Cincinnati_Heroin.html){: .btn .btn--info}
+
+_disclamer: this is a project for a graduate course_
