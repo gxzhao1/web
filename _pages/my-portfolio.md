@@ -11,6 +11,7 @@ sidebar:
   nav: sidebar-portfolio
 
 toc: true
+toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
@@ -20,6 +21,7 @@ Work in progress
 ## Programming
 ### R
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
+
 [Spatial Analysis: Indego Bikeshare Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/)
 
 ### Python
@@ -43,3 +45,4 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 ### Strategic Planning
 ### Research
 
+# Projects Gallery
