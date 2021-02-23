@@ -8,12 +8,12 @@ tags:
   - English
 ---
 {% capture fig_img %}
-![Foo]({{ "/assets/images/post-covid-information-diffusion.jpg" | relative_url }})
+![Foo]({{ "/assets/images/sim-city-smart-city.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Two people talking on social networks concept</figcaption>
+  <figcaption>Gamified city concept</figcaption>
 </figure>
 
 "The video game SimCity is addictive because of the simplicity of its underlying model." I got intrigued as soon as I read this from Townsend's book Smart Cities: Big Data, Civic Hackers, and the Quest for a New Utopia (2013). Indeed, I grew up playing these simulation games, from SimCity, Roller Coaster Tycoon, to Animal Crossing, and I believe a lot of you did too. They are amazing - you get to effortlessly design your own world, through days (and possibly nights) of mouse clicking and button pressing.

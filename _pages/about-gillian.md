@@ -1,5 +1,5 @@
 ---
-title: "About Page"
+title: "About Me"
 permalink: /about-gillian/
 layout: posts
 author_profile: true

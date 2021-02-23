@@ -8,12 +8,12 @@ tags:
   - English
 ---
 {% capture fig_img %}
-![Foo]({{ "/assets/images/post-why-study-urban-planning.jpg" | relative_url }})
+![Foo]({{ "/assets/images/post-covid-information-diffusion.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photographer traveler in the city with camera</figcaption>
+  <figcaption>Two people talking on social networks concept</figcaption>
 </figure>
 
 I learned this story in one of my Informatics class: A 2-year "water boiling" campaign was conducted in Peru in order to improve local residents' health. A public health worker gave talks to housewives, telling them how boiling water could kill germs, but largely failed to persuade them to drink boiling water. Can you think of why that is?
