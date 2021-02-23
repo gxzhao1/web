@@ -10,7 +10,6 @@ sidebar:
   nav: sidebar-portfolio
 
 toc: true
-toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
@@ -43,5 +42,3 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 ### Memo Writing
 ### Strategic Planning
 ### Research
-
-# Projects Gallery
