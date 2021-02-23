@@ -4,7 +4,6 @@ layout: collection
 permalink: /my-portfolio/
 collection: portfolio
 entries_layout: grid
-classes: wide
 
 sidebar:
   title: "Categories"
