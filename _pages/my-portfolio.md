@@ -1,12 +1,11 @@
 ---
 title: Portfolio
-layout: collection
+layout: categories
 permalink: /my-portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+
 ---
 
-hi
-
-`_portfolio`
+hiiii
