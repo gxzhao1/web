@@ -34,25 +34,25 @@ Lack of effective communication example: On Sep 9, media reported that "Trump sa
 
 Eventually, the new norm of mask-wearing channeled over time among residents of the city I live in. Like everywhere else, there are different kinds of adopters. According to Rogers, there are:
 
-    Innovators who are educated, risk takers, and have many information sources
++ Innovators who are educated, risk takers, and have many information sources
 
-    Early adopters who are leaders, opinion leaders, and educated
++ Early adopters who are leaders, opinion leaders, and educated
 
-    Early majority who has large networks of friends and acquaintances
++ Early majority who has large networks of friends and acquaintances
 
-    Late majority who are cautious, somewhat conservative, and tend to have lower economic status
++ Late majority who are cautious, somewhat conservative, and tend to have lower economic status
 
-    Laggards who are the other risk aversive people
++ Laggards who are the other risk aversive people
 
 I was one of the early adopters. I did what I could to justify the action of mask-wearing. Persuading my boyfriend to weak masks took me a week. Without the guidance and protection of opinion leaders, innovation could be adopted in a extremely slow rate.
 
 Fortunately, the innovation did not fail as much as the water boiling story. Analysis gave three explanations for the innovation's failure:
 
-    The innovation (drinking boiling water) challenged the local culture that only the sick should drink hot water;
++ The innovation (drinking boiling water) challenged the local culture that only the sick should drink hot water;
 
-    The worker worked with the "wrong" housewives - they have little influence on the community;
++ The worker worked with the "wrong" housewives - they have little influence on the community;
 
-    The approach was not client-oriented - it didn't take into account the challenges of the villagers.
++ The approach was not client-oriented - it didn't take into account the challenges of the villagers.
 
 Adoption of new technology (new lifestyle, new actions... etc.) hinges on several factors, with diffusion being the most important. A little action could have big rippling effects. When it reaches critical mass - a volume that reaches a size to create an impact - further diffusion becomes self-sustaining. This is usually used in marketing - heavy advertisement and the use of opinion leaders make more people aware of the product.
 

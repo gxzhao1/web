@@ -20,4 +20,4 @@ Our team built a geospatial risk model of heroin overdose events for the City of
 
 [Code](https://gillianzhaoxz.github.io/508_html/Cincinnati_Heroin.html){: .btn .btn--info}
 
-_disclamer: this is a project for a graduate course_
+_disclamer: this project is a part of a graduate course_

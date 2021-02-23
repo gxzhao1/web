@@ -6,6 +6,12 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 
+sidebar:
+  title: "Categories"
+  nav: sidebar-portfolio
+
+
 ---
 
-hiiii
+Below are some work examples that I've done.
+
