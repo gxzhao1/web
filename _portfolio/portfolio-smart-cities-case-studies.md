@@ -2,11 +2,11 @@
 title: "GIS & Design: Smart Cities and Transportation, a Comparative Case Study"
 excerpt: 
 header:
-  teaser: /assets/images/portfolio-portfolio-smart-cities.png
+  teaser: /assets/images/portfolio-smart-cities.png
 layout: single
 ---
 {% capture fig_img %}
-![Poster]({{ "/assets/images/portfolio-portfolio-smart-cities.png" | relative_url }})
+![Poster]({{ "/assets/images/portfolio-smart-cities.png" | relative_url }})
 {% endcapture %}
 
 <figure>

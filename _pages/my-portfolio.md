@@ -16,6 +16,8 @@ toc_label: "Projects by Skills"
 
 This page is still work in progress. While it hosts many sample work of mine, navigate the projects *by categories using the panel on the left*, or *by skills using the panel on the right*.
 
+For other projects, please check out [my old website](https://gillianzhaoxz0.wixsite.com/home/1)
+
 # Programming
 ## R
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
