@@ -15,3 +15,5 @@ layout: single
 </figure>
 
 I examined the implementation of Smart Mobility programs in Singapore and Chicago to understand to what extent Smart Cities initiatives are alleviating transportation challenges. My research relied on ArcGIS statistical analysis tools and the poster was created with Adobe InDesign.
+
+_disclamer: this project is a part of an undergraduate capstone_
