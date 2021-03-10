@@ -6,7 +6,7 @@ header:
 layout: single
 ---
 {% capture fig_img %}
-![Foo]({{ "/assets/images/portfolio-indego-bikeshare.png" | relative_url }})
+![Bikeshare demand error map illustration]({{ "/assets/images/portfolio-indego-bikeshare.png" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -20,6 +20,6 @@ Despite the benefits, this kind of system is hard to operate well, as there are 
 
 The key to re-balancing is predicting the bike share demand for all stations at all times as accurate as possible, and the operators can move the bikes around ahead of time according to past experiences. In this way, user satisfaction will be maximized. As many top mathematicians and computer scientists have been addressing the challenge ^3, this analysis attempts to predict space/time demand for bike share pickups in the city of Philadelphia. It considers the bike share pickup pattern at the station level by time of the pickup and locations of the station. With 5-minute interval data accounting for a 5-week period (July 8 - August 11, 2019), it hopes to inform the usefulness of such algorithms and provide insights for Indego’s re-balancing plan at any given time.
 
-[Code](https://gillianzhaoxz.github.io/508_html/MUSA508_HW5_Bikeshare_Zhao.html){: .btn .btn--info}
+[Analysis](https://gillianzhaoxz.github.io/508_html/MUSA508_HW5_Bikeshare_Zhao.html){: .btn .btn--info}
 
 _disclamer: this project is a part of a graduate course_

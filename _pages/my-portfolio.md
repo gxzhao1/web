@@ -11,34 +11,42 @@ sidebar:
 
 toc: true
 toc_sticky: true
+toc_label: "Projects by Skills"
 ---
 
-Work in progress
+This page is still work in progress. While it hosts many sample work of mine, navigate the projects *by categories using the panel on the left*, or *by skills using the panel on the right*.
 
-# Projects by Skills
-## Programming
-### R
+# Programming
+## R
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
 [Spatial Analysis: Indego Bikeshare Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/)
 
-### Python
-I took a semester of Introduction to Data Science course which trained my Python knowledege.
+[Spatial Analysis: Home Repair Tax Credit Allocation Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-fictional-credit-allocation/)
 
-### Javascript
+[Spatial Analysis: Predictive Policing Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-predictive-policing/)
+
+[Spatial Analysis: Housing Price Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-miami-housing-price/)
+
+[Spatial Analysis: TOD Suitability Analysis Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-TOD/)
+
+## Python
+I took a semester of Introduction to Data Science course which trained my [Python knowledege](https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/).
+
+## Javascript
 I am currently taking a Javascript for Maps course and will hopefully have something proud to show by the end of the semester.
 
-## Geographic Information System
-### ArcGIS
-### QGIS
+# Geographic Information System
+## ArcGIS
+## QGIS
 
-## Design
-### Adobe InDesign
-### Adobe Illustrator
-### Adobe Photoshop
-### SketchUp
+# Design
+## Adobe InDesign
+## Adobe Illustrator
+## Adobe Photoshop
+## SketchUp
 
-## 
-### Memo Writing
-### Strategic Planning
-### Research
+#
+## Memo Writing
+## Strategic Planning
+## Research

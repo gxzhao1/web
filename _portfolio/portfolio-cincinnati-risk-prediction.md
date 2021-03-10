@@ -6,7 +6,7 @@ header:
 layout: single
 ---
 {% capture fig_img %}
-![Foo]({{ "/assets/images/portfolio-pred-hero-presentation.jpg" | relative_url }})
+![PredHero consept and wireframe illustration]({{ "/assets/images/portfolio-pred-hero-presentation.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -18,6 +18,6 @@ Our team built a geospatial risk model of heroin overdose events for the City of
 
 [Video Presentation](https://www.youtube.com/watch?v=rCxU5raI2Ws&feature=youtu.be){: .btn .btn--info}
 
-[Code](https://gillianzhaoxz.github.io/508_html/Cincinnati_Heroin.html){: .btn .btn--info}
+[Analysis](https://gillianzhaoxz.github.io/508_html/Cincinnati_Heroin.html){: .btn .btn--info}
 
 _disclamer: this project is a part of a graduate course_

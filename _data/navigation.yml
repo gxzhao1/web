@@ -19,10 +19,14 @@ sidebar-portfolio:
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/
       - title: "Re-balancing Problem"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/
-      - title: "Child Page A3"
-        url: /child-page-a3/
-      - title: "Child Page A4"
-        url: /child-page-a4/
+      - title: "Cost-Benefit Analysis"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-fictional-credit-allocation/
+      - title: "Predictive Policing"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-predictive-policing/
+      - title: "Price Prediction"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-miami-housing-price/
+      - title: "TOD Suitability"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-TOD/
   - title: "Research and Memo"
     children:
       - title: "Child Page B1"
@@ -49,8 +53,8 @@ sidebar-portfolio:
         url: /child-page-c5/
   - title: "Others"
     children:
-      - title: "Child Page D1"
-        url: /child-page-d1/
+      - title: "Python"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/
       - title: "Child Page D2"
         url: /child-page-d2/
       - title: "Child Page D3 (External)"
