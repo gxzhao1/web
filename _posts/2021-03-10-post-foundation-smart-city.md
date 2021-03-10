@@ -51,7 +51,10 @@ As smart technologies have already changed the nature and economics of infrastru
 + McKinsey. How Government Can Promote Open Data. Retrieved October 21, 2020, from https://www.mckinsey.com/industries/public-and-social-sector/our-insights/how-government-can-promote-open-data
 + Data.gov.sg. (n.d.). Data.Gov.Sg. Retrieved October 21, 2020, from https://data.gov.sg/about
 + Goldstein, B., 2013. Open Data in Chicago: Game On, in: Beyond Transparency: Open Data and the Future of Civic Innovation. Code for America Press. https://beyondtransparency.org/chapters/part-1/open-data-in-chicago-game-on/
-+ `Heller, N., 2017. Estonia, the Digital Republic | The New Yorker.  https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic `
++ 
+```text
+Heller, N., 2017. Estonia, the Digital Republic | The New Yorker.  https://www.newyorker.com/magazine/2017/12/18/estonia-the-digital-republic 
+```
 + `textIntroduction and structure | Estonian Information System Authority. (n.d.). Retrieved October 21, 2020, from introduction-and-structure.html`
 + Morgan, K., 2020. Googling the City: In Search of the Public Interest on Toronto’s ‘Smart’ Waterfront. https://www.ssoar.info/ssoar/bitstream/handle/document/66859/ssoar-up-2020-1-morgan_et_al-Googling_the_City_In_Search.pdf?sequence=1
 + Summers, N., 2018. Google’s smart city dream is turning into a privacy nightmare. Engadget. https://www.engadget.com/2018/10/26/sidewalk-labs-ann-cavoukian-smart-city/ 
