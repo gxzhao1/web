@@ -38,15 +38,22 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 
 # Geographic Information System
 ## ArcGIS
+[GIS & Design: Smart Cities and Transportation Case Studies](https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/)
+
 ## QGIS
+[GIS & Design: Transportation Factsheet](https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/)
 
 # Design
 ## Adobe InDesign
+[GIS & Design: Transportation Factsheet](https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/)
+
+[GIS & Design: Smart Cities and Transportation Case Studies](https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/)
+
 ## Adobe Illustrator
 ## Adobe Photoshop
 ## SketchUp
 
-#
+# Communication
 ## Memo Writing
 ## Strategic Planning
 ## Research
