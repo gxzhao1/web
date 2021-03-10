@@ -2,11 +2,11 @@
 title: "Python: Intro to Data Science"
 excerpt: 
 header:
-  teaser: /assets/images/portfolio-python.png
+  teaser: /assets/images/portfolio-python.jpg
 layout: single
 ---
 {% capture fig_img %}
-![What I've learned]({{ "/assets/images/portfolio-python.png" | relative_url }})
+![What I've learned]({{ "/assets/images/portfolio-python.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
