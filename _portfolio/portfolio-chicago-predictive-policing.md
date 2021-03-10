@@ -6,7 +6,7 @@ header:
 layout: single
 ---
 {% capture fig_img %}
-![Spatial process of cannabis convicts locations]({{ "portfolio-predictive-policing.png" | relative_url }})
+![Spatial process of cannabis convicts locations]({{ "/assets/images/portfolio-predictive-policing.png" | relative_url }})
 {% endcapture %}
 
 <figure>

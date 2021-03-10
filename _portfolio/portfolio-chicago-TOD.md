@@ -6,7 +6,7 @@ header:
 layout: single
 ---
 {% capture fig_img %}
-![Graduated symbol map of median rent within 0.5mi. of CTA stations]({{ "portfolio-TOD.png" | relative_url }})
+![Graduated symbol map of median rent within 0.5mi. of CTA stations]({{ "/assets/images/portfolio-TOD.png" | relative_url }})
 {% endcapture %}
 
 <figure>

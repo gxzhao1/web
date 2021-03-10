@@ -6,7 +6,7 @@ header:
 layout: single
 ---
 {% capture fig_img %}
-![Map of predicted prices]({{ "portfolio-price-prediction.png" | relative_url }})
+![Map of predicted prices]({{ "/assets/images/portfolio-price-prediction.png" | relative_url }})
 {% endcapture %}
 
 <figure>
