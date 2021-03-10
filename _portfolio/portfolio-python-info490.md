@@ -2,17 +2,8 @@
 title: "Python: Intro to Data Science"
 excerpt: 
 header:
-  teaser: /assets/images/portfolio-python.jpg
 layout: single
 ---
-{% capture fig_img %}
-![What I've learned]({{ "/assets/images/portfolio-python.jpg" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Topics covered illustration</figcaption>
-</figure>
 
 From this semester-long Introduction to Data Science course, I learned Python and using Python to analyze data. Through daily practice with programming exercises and data science projects, I developed core skills including:
 + Data science pipeline:
