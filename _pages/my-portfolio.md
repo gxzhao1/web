@@ -25,13 +25,13 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 ## R
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-pred-hero-presentation.jpg" alt="">
-  <figcaption>Itty-bitty caption.</figcaption>
+  <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/">Spatial Analysis: Heroin Overdose Risk Prediction Project</a>.</figcaption>
 </figure> 
 
+
+
+
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
-
-
-
 
 [Spatial Analysis: Indego Bikeshare Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/)
 
