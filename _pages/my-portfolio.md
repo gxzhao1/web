@@ -44,7 +44,6 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
-
 {% include feature_row1 %}
 
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
