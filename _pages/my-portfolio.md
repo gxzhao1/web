@@ -13,11 +13,11 @@ toc: true
 toc_sticky: true
 toc_label: "Projects by Skills"
 
-feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row1:
+  - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
+    alt: "PredHero consept and wireframe illustration"
+    title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
+    excerpt: "Our team built a geospatial risk model of heroin overdose events for the City of Cincinnati, Ohio by examining current overdose locations, environmental risk factors, and spatial processes. Predicting the number of overdose events to specific areas in the city can assist local health programs to strategically distribute resources and identify areas needing more services, through the use of our proposed website PredHero."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -37,8 +37,6 @@ feature_row:
 
 ---
 
-{% include feature_row %}
-
 
 This page is still work in progress. While it hosts many sample work of mine, navigate the projects *by categories using the panel on the left*, or *by skills using the panel on the right*.
 
@@ -46,6 +44,7 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
+{% include feature_row %}
 
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
