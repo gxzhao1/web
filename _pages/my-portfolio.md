@@ -19,7 +19,7 @@ fr_508predhero:
     excerpt: "A geospatial risk model for heroin overdose events for the City of Cincinnati, Ohio"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 
 fr_508indego:
   - image_path: /assets/images/portfolio-indego-bikeshare.png
@@ -28,7 +28,7 @@ fr_508indego:
     excerpt: "A geospatial (+ time lag) model for an Indego bike-share prediction use case"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 
 fr_508homeCredit:
   - image_path: /assets/images/portfolio-credit-allocation.png
@@ -37,7 +37,7 @@ fr_508homeCredit:
     excerpt: "A predictive model that helps identify eligible homeowners who are more likely to take the tax credit program"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-fictional-credit-allocation/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 
 fr_508predictivePolicing:
   - image_path: /assets/images/portfolio-predictive-policing.png
@@ -46,7 +46,7 @@ fr_508predictivePolicing:
     excerpt: "An analysis that examines the accuracy and generalizability of a predictive policing model on Cannabis Possession crime in Chicago"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-predictive-policing/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 
 fr_508housingPrice:
   - image_path: /assets/images/portfolio-price-prediction.png
@@ -55,7 +55,7 @@ fr_508housingPrice:
     excerpt: "A predictive model that factors in available local intelligence in hopes of delivering a better model for home prices prediction"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-miami-housing-price/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 
 fr_508TOD:
   - image_path: /assets/images/portfolio-TOD.png
@@ -64,7 +64,7 @@ fr_508TOD:
     excerpt: "A study of TOD through comparing data between TOD and non-TOD areas across 2009 and 2017 in Chicago "
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-TOD/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
   
 fr_info490:
   - image_path: /assets/images/portfolio-python.jpg
@@ -73,7 +73,7 @@ fr_info490:
     excerpt: "A semester of Introduction to Data Science course which trained my python and data science knowledge"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 
 fr_capstone:
   - image_path: /assets/images/portfolio-smart-cities.png
@@ -82,7 +82,7 @@ fr_capstone:
     excerpt: "A study of smart mobility programs in Chicago and Singapore"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 
 fr_factsheet:
   - image_path: /assets/images/portfolio-transportation-factsheet.png
@@ -91,7 +91,7 @@ fr_factsheet:
     excerpt: "A sample of factsheet completed for a regional planning commission internship"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/"
     btn_label: "Read more"
-    btn_class: ": .btn .btn--info .btn--small"
+    btn_class: ": .btn .btn--info"
 ---
 
 
