@@ -21,10 +21,10 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
+  - image_path: /assets/images/portfolio-indego-bikeshare.png
     alt: "placeholder image 2"
-    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
-    btn_label: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/"
+    btn_label: "Spatial Analysis: Indego Bikeshare Prediction Project"
     btn_class: "btn--primary"
 
 ---
@@ -52,17 +52,6 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-indego-bikeshare.png" alt="">
   <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/">Spatial Analysis: Indego Bikeshare Prediction Project</a></figcaption>
 </figure> 
-
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-indego-bikeshare.png" alt="">
-  <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/">Spatial Analysis: Indego Bikeshare Prediction Project</a></figcaption>
-</figure> 
-
-<figure style="width: 150px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-indego-bikeshare.png" alt="">
-  <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/">Spatial Analysis: Indego Bikeshare Prediction Project</a></figcaption>
-</figure> 
-
 
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
