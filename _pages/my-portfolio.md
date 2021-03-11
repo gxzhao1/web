@@ -3,7 +3,6 @@ title: Portfolio/作品集
 layout: single
 permalink: /my-portfolio/
 collection: portfolio
-layout: single
 
 sidebar:
   title: "Categories"
@@ -13,41 +12,18 @@ toc: true
 toc_sticky: true
 toc_label: "Projects by Skills"
 
-feature_row1:
-  - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
-    alt: "PredHero consept and wireframe illustration"
-    title: "Spatial Analysis #1"
-    excerpt: [Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
 ---
 
 
 This page is still work in progress. While it hosts many sample work of mine, navigate the projects *by categories using the panel on the left*, or *by skills using the panel on the right*.
 
-updated
+update
 
 For other projects, please check out [my old website](https://gillianzhaoxz0.wixsite.com/home/1)
 
 # Programming
 ## R
-
-{% include feature_row id="feature_row1" %}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/portfolio-pred-hero-presentation.jpg){: .align-left} [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
