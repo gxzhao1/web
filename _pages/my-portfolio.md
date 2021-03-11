@@ -73,7 +73,7 @@ fr_info490:
     excerpt: "A semester of Introduction to Data Science course which trained my python and data science knowledge"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--small btn--info"
 
 fr_capstone:
   - image_path: /assets/images/portfolio-smart-cities.png
@@ -82,7 +82,7 @@ fr_capstone:
     excerpt: "A study of smart mobility programs in Chicago and Singapore"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--info .btn--small"
 
 fr_factsheet:
   - image_path: /assets/images/portfolio-transportation-factsheet.png
@@ -91,7 +91,7 @@ fr_factsheet:
     excerpt: "A sample of factsheet completed for a regional planning commission internship"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--small"
 ---
 
 
