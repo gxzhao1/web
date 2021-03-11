@@ -3,7 +3,7 @@ title: Portfolio/作品集
 layout: single
 permalink: /my-portfolio/
 collection: portfolio
-entries_layout: grid
+layout: single
 
 sidebar:
   title: "Categories"
