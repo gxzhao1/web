@@ -16,7 +16,7 @@ fr_508predhero:
   - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
     alt: "PredHero concept and wireframe illustration"
     title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
-    excerpt: "A geospatial risk model for heroin overdose events for the City of Cincinnati, Ohio"
+    excerpt: "A geospatial risk model for heroin overdose events for the City of Cincinnati, Ohio <br />"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
     btn_label: "Read more"
     btn_class: "btn--info btn--small"
@@ -101,7 +101,7 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
-<div class="notice--info">
+<div class="notice">
 {% include feature_row id="fr_508predhero" type="left" %}
 </div>
 
@@ -111,32 +111,50 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 <div class="notice">
 {% include feature_row id="fr_508homeCredit" type="left" %}
+</div>
 
+<div class="notice">
 {% include feature_row id="fr_508predictivePolicing" type="left" %}
+</div>
 
+<div class="notice">
 {% include feature_row id="fr_508housingPrice" type="left" %}
+</div>
 
+<div class="notice">
 {% include feature_row id="fr_508TOD" type="left" %}
 </div>
 
 ## Python
+<div class="notice">
 {% include feature_row id="fr_info490" type="left" %}
+</div>
 
 ## Javascript
+<div class="notice">
 I am currently taking a Javascript for Maps course and will hopefully have something proud to show by the end of the semester.
+</div>
 
 # Geographic Information System
 ## ArcGIS
+<div class="notice">
 {% include feature_row id="fr_capstone" type="left" %}
+</div>
 
 ## QGIS
+<div class="notice">
 {% include feature_row id="fr_factsheet" type="left" %}
+</div>
 
 # Design
 ## Adobe InDesign
+<div class="notice">
 {% include feature_row id="fr_factsheet" type="left" %}
+</div>
 
+<div class="notice">
 {% include feature_row id="fr_capstone" type="left" %}
+</div>
 
 ## Adobe Illustrator
 ## Adobe Photoshop
