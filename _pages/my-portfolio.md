@@ -41,6 +41,8 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 {% include feature_row id="feature_row2" type="left" %}
 
+{% include feature_row id="feature_row3" type="left" %}
+
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-pred-hero-presentation.jpg" alt="">
   <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/">Spatial Analysis: Heroin Overdose Risk Prediction Project</a></figcaption>
