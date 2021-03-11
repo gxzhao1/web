@@ -14,17 +14,20 @@ toc_label: "Projects by Skills"
 
 feature_row2:
   - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
-    alt: "placeholder image 2"
+    alt: "PredHero consept and wireframe illustration"
     title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
+    excerpt: "Our team built a geospatial risk model of heroin overdose events for the City of Cincinnati, Ohio by examining current overdose locations, environmental risk factors, and spatial processes. Predicting the number of overdose events to specific areas in the city can assist local health programs to strategically distribute resources and identify areas needing more services, through the use of our proposed website PredHero."
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
-    btn_label: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
+    btn_label: "Read more"
     btn_class: "btn--primary"
 
 feature_row3:
   - image_path: /assets/images/portfolio-indego-bikeshare.png
-    alt: "placeholder image 2"
+    alt: "Bikeshare demand error map illustration"
+    title: "Spatial Analysis: Indego Bikeshare Prediction Project"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/"
-    btn_label: "Spatial Analysis: Indego Bikeshare Prediction Project"
+    btn_label: "Read more"
     btn_class: "btn--primary"
 
 ---
