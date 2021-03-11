@@ -14,8 +14,7 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Roboto", "Segoe UI", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -47,9 +46,9 @@ $type-size-8: 0.625em !default; // ~10px
 $h-size-1: 1.563em !default; // ~25.008px
 $h-size-2: 1.25em !default; // ~20px
 $h-size-3: 1.125em !default; // ~18px
-$h-size-4: 1.0625em !default; // ~17px
-$h-size-5: 1.03125em !default; // ~16.5px
-$h-size-6: 1em !default; // ~16px
+$h-size-4: 1em !default; // ~16.5px
+$h-size-5: 0.9em !default; // ~14.4px
+$h-size-6: 0.85em !default; // ~13.6px
 
 /*
    Colors
@@ -70,11 +69,11 @@ $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #6f777d !default;
-$success-color: #3fa63f !default;
-$warning-color: #d67f05 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #3b9cba !default;
+$primary-color: #6F6463 !default;
+$success-color: #DC878F !default;
+$warning-color: #FFB898 !default;
+$danger-color: #EA6552 !default;
+$info-color: #699DCC !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
