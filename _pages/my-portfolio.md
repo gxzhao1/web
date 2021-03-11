@@ -23,22 +23,22 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
-<figure style="width: 200px" class="align-left">
+<figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-pred-hero-presentation.jpg" alt="">
   <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/">Spatial Analysis: Heroin Overdose Risk Prediction Project</a></figcaption>
 </figure> 
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-indego-bikeshare.png" alt="">
   <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/">Spatial Analysis: Indego Bikeshare Prediction Project</a></figcaption>
 </figure> 
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-indego-bikeshare.png" alt="">
   <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/">Spatial Analysis: Indego Bikeshare Prediction Project</a></figcaption>
 </figure> 
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-indego-bikeshare.png" alt="">
   <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/">Spatial Analysis: Indego Bikeshare Prediction Project</a></figcaption>
 </figure> 
