@@ -16,9 +16,15 @@ feature_row2:
   - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
     alt: "placeholder image 2"
     title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
-    btn_label: "Read More"
+    btn_label: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
+    btn_class: "btn--primary"
+
+feature_row3:
+  - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
+    alt: "placeholder image 2"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
+    btn_label: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
     btn_class: "btn--primary"
 
 ---
