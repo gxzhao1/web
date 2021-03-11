@@ -23,7 +23,7 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/portfolio-pred-hero-presentation.jpg){: .align-left} [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-580x300.jpg){: .align-left} [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
