@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 toc_label: "Projects by Skills"
 
-feature_row2:
+fr_508predhero:
   - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
     alt: "PredHero concept and wireframe illustration"
     title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
@@ -21,57 +21,116 @@ feature_row2:
     btn_label: "Read more"
     btn_class: "btn--primary"
 
-feature_row3:
+fr_508indego:
   - image_path: /assets/images/portfolio-indego-bikeshare.png
     alt: "Bikeshare demand error map illustration"
     title: "Spatial Analysis: Indego Bikeshare Prediction Project"
-    excerpt: "A geospatial (+ time lag) model for a bike-share prediction use case"
+    excerpt: "A geospatial (+ time lag) model for an Indego bike-share prediction use case"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/"
     btn_label: "Read more"
     btn_class: "btn--primary"
 
+fr_508homeCredit:
+  - image_path: /assets/images/portfolio-credit-allocation.png
+    alt: "Goodness of fit metrics for the project"
+    title: "Cost Benefit Analysis: Home Repair Tax Credit Allocation Project"
+    excerpt: "A predictive model that helps identify eligible homeowners who are more likely to take the tax credit program"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-fictional-credit-allocation/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+fr_508predictivePolicing:
+  - image_path: /assets/images/portfolio-predictive-policing.png
+    alt: "Spatial process of cannabis convicts locations"
+    title: "Spatial Analysis: Predictive Policing Project"
+    excerpt: "An analysis that examines the accuracy and generalizability of a predictive policing model on Cannabis Possession crime in Chicago"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-predictive-policing/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+fr_508housingPrice:
+  - image_path: /assets/images/portfolio-price-prediction.png
+    alt: "Map of predicted prices"
+    title: "Spatial Analysis: Housing Price Prediction Project"
+    excerpt: "A predictive model that factors in available local intelligence in hopes of delivering a better model for home prices prediction"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-miami-housing-price/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+fr_508TOD:
+  - image_path: /assets/images/portfolio-TOD.png
+    alt: "Graduate symbol map of median rent within 0.5mi. of CTA stations"
+    title: "Spatial Analysis: TOD Suitability Analysis"
+    excerpt: "A study of TOD through comparing data between TOD and non-TOD areas across 2009 and 2017 in Chicago "
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-TOD/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  
+fr_info490:
+  - image_path: /assets/images/portfolio-python.jpg
+    alt: "Topics covered illustration, adopted from course syllbus"
+    title: "Python: Intro to Data Science"
+    excerpt: "A semester of Introduction to Data Science course which trained my python and data science knowledge"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+fr_capstone:
+  - image_path: /assets/images/portfolio-smart-cities.png
+    alt: "Poster for the project"
+    title: "GIS & Design: Smart Cities and Transportation, a Comparative Case Study"
+    excerpt: "A study of smart mobility programs in Chicago and Singapore"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+
+fr_factsheet:
+  - image_path: /assets/images/portfolio-transportation-factsheet.png
+    alt: "Sample factsheet page"
+    title: "GIS & Design: Transportation Factsheet"
+    excerpt: "A sample of factsheet completed for a regional planning commission internship"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 ---
 
 
 This page is still work in progress. While it hosts many sample work of mine, navigate the projects *by categories using the panel on the left*, or *by skills using the panel on the right*.
 
-update
-
 For other projects, please check out [my old website](https://gillianzhaoxz0.wixsite.com/home/1)
 
 # Programming
 ## R
+{% include feature_row id="fr_508predhero" type="left" %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="fr_508indego" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="fr_508homeCredit" type="left" %}
 
-[Spatial Analysis: Home Repair Tax Credit Allocation Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-fictional-credit-allocation/)
+{% include feature_row id="fr_508predictivePolicing" type="left" %}
 
-[Spatial Analysis: Predictive Policing Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-predictive-policing/)
+{% include feature_row id="fr_508housingPrice" type="left" %}
 
-[Spatial Analysis: Housing Price Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-miami-housing-price/)
-
-[Spatial Analysis: TOD Suitability Analysis Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-TOD/)
+{% include feature_row id="fr_508TOD" type="left" %}
 
 ## Python
-I took a semester of Introduction to Data Science course which trained my [Python knowledege](https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/).
+{% include feature_row id="fr_info490" type="left" %}
 
 ## Javascript
 I am currently taking a Javascript for Maps course and will hopefully have something proud to show by the end of the semester.
 
 # Geographic Information System
 ## ArcGIS
-[GIS & Design: Smart Cities and Transportation Case Studies](https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/)
+{% include feature_row id="fr_capstone" type="left" %}
 
 ## QGIS
-[GIS & Design: Transportation Factsheet](https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/)
+{% include feature_row id="fr_factsheet" type="left" %}
 
 # Design
 ## Adobe InDesign
-[GIS & Design: Transportation Factsheet](https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/)
+{% include feature_row id="fr_factsheet" type="left" %}
 
-[GIS & Design: Smart Cities and Transportation Case Studies](https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/)
+{% include feature_row id="fr_capstone" type="left" %}
 
 ## Adobe Illustrator
 ## Adobe Photoshop

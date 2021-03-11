@@ -6,7 +6,7 @@ header:
 layout: single
 ---
 {% capture fig_img %}
-![Factsheet 1st page]({{ "/assets/images/portfolio-transportation-factsheet.png" | relative_url }})
+![Sample factsheet page]({{ "/assets/images/portfolio-transportation-factsheet.png" | relative_url }})
 {% endcapture %}
 
 <figure>

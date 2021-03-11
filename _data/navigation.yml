@@ -13,7 +13,7 @@ main:
 
 # sidebar navigation list for portfolio
 sidebar-portfolio:
-  - title: "Spatial Analysis"
+  - title: "Statistical & Spatial Analysis"
     children:
       - title: "Risk Prediction"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/
