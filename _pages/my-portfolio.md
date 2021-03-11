@@ -10,16 +10,16 @@ sidebar:
 
 toc: true
 toc_sticky: true
-toc_label: "Projects by Skills"
+toc_label: "Skills"
 
 fr_508predhero:
   - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
     alt: "PredHero concept and wireframe illustration"
     title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
-    excerpt: "A geospatial risk model for heroin overdose events for the City of Cincinnati, Ohio <br />"
+    excerpt: "A geospatial risk model for heroin overdose events for the City of Cincinnati, Ohio"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
 
 fr_508indego:
   - image_path: /assets/images/portfolio-indego-bikeshare.png
@@ -28,7 +28,7 @@ fr_508indego:
     excerpt: "A geospatial (+ time lag) model for an Indego bike-share prediction use case"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-philly-indego-prediction/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
 
 fr_508homeCredit:
   - image_path: /assets/images/portfolio-credit-allocation.png
@@ -37,7 +37,7 @@ fr_508homeCredit:
     excerpt: "A predictive model that helps identify eligible homeowners who are more likely to take the tax credit program"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-fictional-credit-allocation/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
 
 fr_508predictivePolicing:
   - image_path: /assets/images/portfolio-predictive-policing.png
@@ -46,7 +46,7 @@ fr_508predictivePolicing:
     excerpt: "An analysis that examines the accuracy and generalizability of a predictive policing model on Cannabis Possession crime in Chicago"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-predictive-policing/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
 
 fr_508housingPrice:
   - image_path: /assets/images/portfolio-price-prediction.png
@@ -55,7 +55,7 @@ fr_508housingPrice:
     excerpt: "A predictive model that factors in available local intelligence in hopes of delivering a better model for home prices prediction"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-miami-housing-price/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
 
 fr_508TOD:
   - image_path: /assets/images/portfolio-TOD.png
@@ -64,7 +64,7 @@ fr_508TOD:
     excerpt: "A study of TOD through comparing data between TOD and non-TOD areas across 2009 and 2017 in Chicago "
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-TOD/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
   
 fr_info490:
   - image_path: /assets/images/portfolio-python.jpg
@@ -73,7 +73,7 @@ fr_info490:
     excerpt: "A semester of Introduction to Data Science course which trained my python and data science knowledge"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
 
 fr_capstone:
   - image_path: /assets/images/portfolio-smart-cities.png
@@ -82,7 +82,7 @@ fr_capstone:
     excerpt: "A study of smart mobility programs in Chicago and Singapore"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/"
     btn_label: "Read more"
-    btn_class: "btn--info btn--small"
+    btn_class: "btn--inverse btn--small"
 
 fr_factsheet:
   - image_path: /assets/images/portfolio-transportation-factsheet.png
@@ -101,60 +101,37 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
-<div class="notice">
 {% include feature_row id="fr_508predhero" type="left" %}
-</div>
 
-<div class="notice">
 {% include feature_row id="fr_508indego" type="left" %}
-</div>
 
-<div class="notice">
 {% include feature_row id="fr_508homeCredit" type="left" %}
-</div>
 
-<div class="notice">
 {% include feature_row id="fr_508predictivePolicing" type="left" %}
-</div>
 
-<div class="notice">
 {% include feature_row id="fr_508housingPrice" type="left" %}
-</div>
 
-<div class="notice">
 {% include feature_row id="fr_508TOD" type="left" %}
-</div>
 
 ## Python
-<div class="notice">
 {% include feature_row id="fr_info490" type="left" %}
-</div>
 
 ## Javascript
-<div class="notice">
 I am currently taking a Javascript for Maps course and will hopefully have something proud to show by the end of the semester.
-</div>
 
 # Geographic Information System
 ## ArcGIS
-<div class="notice">
 {% include feature_row id="fr_capstone" type="left" %}
-</div>
 
 ## QGIS
-<div class="notice">
 {% include feature_row id="fr_factsheet" type="left" %}
-</div>
 
 # Design
 ## Adobe InDesign
-<div class="notice">
 {% include feature_row id="fr_factsheet" type="left" %}
-</div>
 
-<div class="notice">
 {% include feature_row id="fr_capstone" type="left" %}
-</div>
+
 
 ## Adobe Illustrator
 ## Adobe Photoshop
