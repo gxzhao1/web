@@ -44,11 +44,17 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
-{% include feature_row id=feature_row1 %}
+
+{% include feature_row id="feature_row1" %}
 
 {% capture fig_img %}
 ![PredHero consept and wireframe illustration]({{ "/assets/images/portfolio-pred-hero-presentation.jpg" | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>PredHero consept and wireframe illustration</figcaption>
+</figure>
 
 [Spatial Analysis: Heroin Overdose Risk Prediction Project](https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/)
 
