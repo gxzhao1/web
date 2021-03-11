@@ -12,6 +12,15 @@ toc: true
 toc_sticky: true
 toc_label: "Projects by Skills"
 
+feature_row2:
+  - image_path: /assets/images/portfolio-pred-hero-presentation.jpg
+    alt: "placeholder image 2"
+    title: "Spatial Analysis: Heroin Overdose Risk Prediction Project"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 
@@ -23,6 +32,9 @@ For other projects, please check out [my old website](https://gillianzhaoxz0.wix
 
 # Programming
 ## R
+
+{% include feature_row id="feature_row2" type="left" %}
+
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/portfolio-pred-hero-presentation.jpg" alt="">
   <figcaption><a href="https://gillianzhaoxz.github.io/web/portfolio/portfolio-cincinnati-risk-prediction/">Spatial Analysis: Heroin Overdose Risk Prediction Project</a></figcaption>
