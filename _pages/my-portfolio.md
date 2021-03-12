@@ -116,7 +116,7 @@ fr_ictTransport:
     alt: "Conceptual model for travel decision making"
     title: "Research and Memo: Literature Review - Impacts of ICTs on Travel Behaviors"
     excerpt: "A literature review that conducts a framework and provides planning implications regarding travel behaviors influenced by ICTs"
-    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-midtown-plaza/"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-ICT-transportation-litReview/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
