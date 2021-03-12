@@ -103,10 +103,19 @@ fr_neilPlaza:
     btn_class: "btn--inverse btn--small"
 
 fr_midtownPlaza:
-  - image_path: portfolio-midtownPlaza.jpg
+  - image_path: /assets/images/portfolio-midtownPlaza.jpg
     alt: "Sketchup rendering"
     title: "Strategies and Planning: Midtown Connection Redevelopment Proposal"
     excerpt: "A mixed-use development proposal featuring a plaza roundabout connecting downtown and campustown in Champaign, IL"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-midtown-plaza/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
+fr_ictTransport:
+  - image_path: /assets/images/portfolio-ICT-transportation.jpg
+    alt: "Conceptual model for travel decision making"
+    title: "Research and Memo: Literature Review - Impacts of ICTs on Travel Behaviors"
+    excerpt: "A literature review that conducts a framework and provides planning implications regarding travel behaviors influenced by ICTs"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-midtown-plaza/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
@@ -162,3 +171,4 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 ## Memo Writing
 ## Strategic Planning
 ## Research
+{% include feature_row id="fr_ictTransport" type="left" %}

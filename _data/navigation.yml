@@ -29,8 +29,8 @@ sidebar-portfolio:
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-chicago-TOD/
   - title: "Research and Memo"
     children:
-      - title: "Child Page B1"
-        url: /child-page-b1/
+      - title: "Literature Review"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-ICT-transportation-litReview/
       - title: "Child Page B2"
         url: /child-page-b2/
       - title: "Child Page B3"

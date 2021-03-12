@@ -7,7 +7,7 @@ tags:
   - Smart Cities
   - English
 header:
-  teaser: /assets/images/sim-city-smart-city.jpg
+  teaser: /assets/images/post-sim-city-smart-city.jpg
 ---
 {% capture fig_img %}
 ![Foo]({{ "/assets/images/post-sim-city-smart-city.jpg" | relative_url }})
