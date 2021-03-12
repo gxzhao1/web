@@ -1,1 +1,1 @@
-My personal website in progress of update
+My personal website developed using my personal account
