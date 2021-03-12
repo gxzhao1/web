@@ -47,10 +47,10 @@ sidebar-portfolio:
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/
       - title: "Child Page C3"
         url: /child-page-c3/
-      - title: "Child Page C4"
-        url: /child-page-c4/
-      - title: "Child Page C5"
-        url: /child-page-c5/
+      - title: "Mixed-Use Development Proposal"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-midtown-plaza/
+      - title: "Plaza Redevelopment Plan"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-neil-st-plaza/
   - title: "Others"
     children:
       - title: "Python"

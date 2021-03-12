@@ -101,6 +101,15 @@ fr_neilPlaza:
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-neil-st-plaza/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
+
+fr_midtownPlaza:
+  - image_path: portfolio-midtownPlaza.jpg
+    alt: "Sketchup rendering"
+    title: "Strategies and Planning: Midtown Connection Redevelopment Proposal"
+    excerpt: "A mixed-use development proposal featuring a plaza roundabout connecting downtown and campustown in Champaign, IL"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-neil-st-plaza/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
 ---
 
 
@@ -147,6 +156,7 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 {% include feature_row id="fr_neilPlaza" type="left" %}
 
 ## SketchUp
+{% include feature_row id="fr_midtownPlaza" type="left" %}
 
 # Communication
 ## Memo Writing
