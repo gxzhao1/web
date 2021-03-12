@@ -78,7 +78,7 @@ fr_info490:
 fr_capstone:
   - image_path: /assets/images/portfolio-smart-cities.png
     alt: "Poster for the project"
-    title: "GIS & Design: Smart Cities and Transportation, a Comparative Case Study"
+    title: "Strategies and Planning: Smart Cities and Transportation, a Comparative Case Study"
     excerpt: "A study of smart mobility programs in Chicago and Singapore"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/"
     btn_label: "Read more"
@@ -87,9 +87,18 @@ fr_capstone:
 fr_factsheet:
   - image_path: /assets/images/portfolio-transportation-factsheet.png
     alt: "Sample factsheet page"
-    title: "GIS & Design: Transportation Factsheet"
+    title: "Strategies and Planning: Transportation Factsheet"
     excerpt: "A sample of factsheet completed for a regional planning commission internship"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
+fr_neilPlaza:
+  - image_path: /assets/images/portfolio-neilStPlaza.jpg
+    alt: "Before and after vision"
+    title: "Strategies and Planning: Neil Street Plaza Redevelopment Plan"
+    excerpt: "A plan to develop a "railroad plaza" in downtown Champaign"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-neil-st-plaza/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 ---
