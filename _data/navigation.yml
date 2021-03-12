@@ -33,11 +33,11 @@ sidebar-portfolio:
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-ICT-transportation-litReview/
       - title: "Case Studies"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/
-      - title: "Child Page B3"
+      - title: "FIA Analysis"
         url: /child-page-b3/
-      - title: "Child Page B4"
+      - title: "Municipal Analysis"
         url: /child-page-b4/
-      - title: "Child Page B5"
+      - title: "Policy Memo"
         url: /child-page-b5/
   - title: "Strategies and Planning"
     children:
