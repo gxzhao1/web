@@ -97,7 +97,7 @@ fr_neilPlaza:
   - image_path: /assets/images/portfolio-neilStPlaza.jpg
     alt: "Before and after vision"
     title: "Strategies and Planning: Neil Street Plaza Redevelopment Plan"
-    excerpt: "A plan to develop a "railroad plaza" in downtown Champaign"
+    excerpt: "A plan to develop a 'railroad plaza' in downtown Champaign"
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-neil-st-plaza/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
@@ -144,6 +144,8 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 
 ## Adobe Illustrator
 ## Adobe Photoshop
+{% include feature_row id="fr_neilPlaza" type="left" %}
+
 ## SketchUp
 
 # Communication
