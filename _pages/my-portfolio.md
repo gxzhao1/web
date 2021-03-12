@@ -107,7 +107,7 @@ fr_midtownPlaza:
     alt: "Sketchup rendering"
     title: "Strategies and Planning: Midtown Connection Redevelopment Proposal"
     excerpt: "A mixed-use development proposal featuring a plaza roundabout connecting downtown and campustown in Champaign, IL"
-    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-neil-st-plaza/"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-midtown-plaza/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 ---

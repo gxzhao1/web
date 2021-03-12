@@ -2,11 +2,11 @@
 title: "Strategies and Planning: Midtown Connection Redevelopment Proposal"
 excerpt: 
 header:
-  teaser: portfolio-midtownPlaza.jpg
+  teaser: /assets/images/portfolio-midtownPlaza.jpg
 layout: single
 ---
 {% capture fig_img %}
-![Sketchup rendering]({{ "portfolio-midtownPlaza.jpg" | relative_url }})
+![Sketchup rendering]({{ "/assets/images/portfolio-midtownPlaza.jpg" | relative_url }})
 {% endcapture %}
 
 <figure>
