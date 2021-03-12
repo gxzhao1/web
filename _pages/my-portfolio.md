@@ -128,12 +128,50 @@ fr_nprospect:
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-nprospect-plan/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
+
+fr_suitability:
+  - image_path: /assets/images/portfolio-suitability.jpg
+    alt: "Suitability poster"
+    title: "Data Visualization: Site Suitability Analysis"
+    excerpt: "An illustration of site suitability analysis for an innovation district in Washington DC"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-dc-suitability/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
+fr_history:
+  - image_path: /assets/images/portfolio-shanghai.png
+    alt: "Shanghai skyline illustration"
+    title: "Research and Memo: Comparative International History"
+    excerpt: "A comparative analysis on urban redevelopment in America and China"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-uschina-redevelopment/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
+fr_FIMPC:
+  - image_path: /assets/images/portfolio-greatlakes.jpg
+    alt: "Political and hydrological map"
+    title: "Research and Memo: Policy Brief / Memo for a Flood Inundation Center"
+    excerpt: "A (fictional) one-page proposal for the creation of a Regional Flood Inundation Modeling & Planning Center (FIMPC)"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-greatlakes_policybrief/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
+
+fr_taxMemo:
+  - image_path: /assets/images/portfolio-internetTax.png
+    alt: "Tax illustration"
+    title: "Research and Memo: Policy Memo for a City-Level Internet Sales Tax"
+    excerpt: "A (fictional) policy memo for the implementation of a city-level internet sales tax"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-tax-policymemo/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
 ---
 
 
-This page is still work in progress. While it hosts many sample work of mine, navigate the projects *by categories using the panel on the left*, or *by skills using the panel on the right*.
+This page hosts some sample work of mine.
 
-For other projects, please check out [my old website](https://gillianzhaoxz0.wixsite.com/home/1)
+Check out the projects by **categories** *using the sidebar on the left*;
+
+or navigate by **skills** *using the panel on the right*.
 
 # Programming
 ## R
@@ -170,6 +208,8 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 
 
 ## Adobe Illustrator
+{% include feature_row id="fr_suitability" type="left" %}
+
 ## Adobe Photoshop
 {% include feature_row id="fr_neilPlaza" type="left" %}
 
@@ -178,6 +218,10 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 
 # Communication
 ## Memo Writing
+{% include feature_row id="fr_FIMPC" type="left" %}
+
+{% include feature_row id="fr_taxMemo" type="left" %}
+
 ## Strategic Planning
 {% include feature_row id="fr_nprospect" type="left" %}
 
@@ -186,4 +230,9 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 {% include feature_row id="fr_neilPlaza" type="left" %}
 
 ## Research
+{% include feature_row id="fr_history" type="left" %}
+
 {% include feature_row id="fr_ictTransport" type="left" %}
+
+# More
+For more dated projects, please check out [my old website](https://gillianzhaoxz0.wixsite.com/home/1)

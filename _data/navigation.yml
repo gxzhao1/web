@@ -33,12 +33,12 @@ sidebar-portfolio:
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-ICT-transportation-litReview/
       - title: "Case Studies"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/
-      - title: "FIA Analysis"
-        url: /child-page-b3/
-      - title: "Municipal Analysis"
-        url: /child-page-b4/
+      - title: "History Essay"
+        url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-uschina-redevelopment"
+      - title: "Policy Brief / Memo"
+        url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-greatlakes_policybrief/"
       - title: "Policy Memo"
-        url: /child-page-b5/
+        url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-tax-policymemo/"
   - title: "Strategies and Planning"
     children:
       - title: "Transportation Factsheet"
@@ -55,7 +55,5 @@ sidebar-portfolio:
     children:
       - title: "Python"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-python-info490/
-      - title: "Child Page D2"
-        url: /child-page-d2/
-      - title: "Child Page D3 (External)"
-        url: https://your-domain.com
+      - title: "Data Visualization"
+        url:  https://gillianzhaoxz.github.io/web/portfolio/portfolio-dc-suitability/

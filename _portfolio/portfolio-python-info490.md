@@ -1,5 +1,5 @@
 ---
-title: "Python: Intro to Data Science"
+title: "Python: Intro to Programming for Data Science"
 excerpt: 
 header:
   teaser: /assets/images/portfolio-python.jpg
@@ -14,7 +14,7 @@ layout: single
   <figcaption>Topics covered illustration, adopted from course syllbus</figcaption>
 </figure>
 
-From this semester-long Introduction to Data Science course, I learned Python and using Python to analyze data. Through daily practice with programming exercises and data science projects, I developed core skills including:
+From this semester-long Introduction to Programming for Data Science course, I learned Python and using Python to analyze data. Through daily practice with programming exercises and data science projects, I developed core skills including:
 + Data science pipeline:
   + Data management (acquiring, cleaning, reshaping, organizing, persisting);
   + Data modeling;
