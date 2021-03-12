@@ -152,7 +152,7 @@ fr_FIMPC:
     alt: "Political and hydrological map"
     title: "Research and Memo: Policy Brief / Memo for a Flood Inundation Center"
     excerpt: "A (fictional) one-page proposal for the creation of a Regional Flood Inundation Modeling & Planning Center (FIMPC)"
-    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-greatlakes_policybrief/"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-greatlakes-policybrief/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
 
