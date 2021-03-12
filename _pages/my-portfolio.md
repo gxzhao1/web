@@ -119,6 +119,15 @@ fr_ictTransport:
     url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-midtown-plaza/"
     btn_label: "Read more"
     btn_class: "btn--inverse btn--small"
+
+fr_nprospect:
+  - image_path: /assets/images/portfolio-prospect_plan_Page_01.jpg
+    alt: "Plan cover"
+    title: "Strategies and Planning: N Prospect Ave Area Improvement Plan"
+    excerpt: "An Area Improvement Plan for the North Prospect Regional Commercial Center under the anticipated retail climate change challenge"
+    url: "https://gillianzhaoxz.github.io/web/portfolio/portfolio-nprospect-plan/"
+    btn_label: "Read more"
+    btn_class: "btn--inverse btn--small"
 ---
 
 
@@ -170,5 +179,11 @@ I am currently taking a Javascript for Maps course and will hopefully have somet
 # Communication
 ## Memo Writing
 ## Strategic Planning
+{% include feature_row id="fr_nprospect" type="left" %}
+
+{% include feature_row id="fr_midtownPlaza" type="left" %}
+
+{% include feature_row id="fr_neilPlaza" type="left" %}
+
 ## Research
 {% include feature_row id="fr_ictTransport" type="left" %}

@@ -31,8 +31,8 @@ sidebar-portfolio:
     children:
       - title: "Literature Review"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-ICT-transportation-litReview/
-      - title: "Child Page B2"
-        url: /child-page-b2/
+      - title: "Case Studies"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/
       - title: "Child Page B3"
         url: /child-page-b3/
       - title: "Child Page B4"
@@ -43,10 +43,10 @@ sidebar-portfolio:
     children:
       - title: "Transportation Factsheet"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-transportation-factsheet/
-      - title: "Smart Cities and Transportation"
-        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-smart-cities-case-studies/
-      - title: "Child Page C3"
-        url: /child-page-c3/
+      - title: "Neighborhood Plan"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-atlanta-plan/
+      - title: "Area Improvement Plan"
+        url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-nprospect-plan/
       - title: "Mixed-Use Development Proposal"
         url: https://gillianzhaoxz.github.io/web/portfolio/portfolio-midtown-plaza/
       - title: "Plaza Redevelopment Plan"
